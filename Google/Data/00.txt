@@ -1,0 +1,8 @@
+UseBridges 1
+ClientTransportPlugin meek_lite exec  C:\Users\%username%\Downloads\Google\GoogleManager.exe
+Bridge meek_lite 0.0.2.0:3 97700DFE9F483596DDA6264C4D7DF7641E1E39CE  url=https://meek.azureedge.net/ front=do.skype.com
+
+
+GeoIPFile C:\Users\%username%\Downloads\Google\Data\geoip
+GeoIPv6File C:\Users\%username%\Downloads\Google\Data\geoip6
+
